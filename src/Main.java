@@ -43,7 +43,7 @@ public class Main {
         }
         System.out.println("Максимальная зарплату у: " + compound[4].getfIO() + " " + max + " рублей");
     }
-
+//
     private static void minsalary() {
         int min = Integer.MAX_VALUE;
         for (int i = 0; i < compound.length; i++) {
