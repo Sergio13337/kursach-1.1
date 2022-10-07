@@ -6,7 +6,7 @@ public class Employee {
     private int id;
 
 //
-
+//
     public Employee(String fIO, int departament, int salary) {
         this.fIO = fIO;
         this.departament = departament;
